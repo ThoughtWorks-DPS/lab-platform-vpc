@@ -248,4 +248,4 @@ workflows:
                 source-env: op.prod.env
           requires:
             - approve prod teardown
-          filters: *on-tag-main
+          filters: *on-push-main
