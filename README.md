@@ -7,10 +7,11 @@
 		<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-deployed-blank.svg?style=social&logo=amazon"></a>
 		<br />
 		<h3>lab-iam-profiles</h3>
-		</a> <a href="https://app.circleci.com/pipelines/github/ThoughtWorks-DPS/lab-platform-vpc"><img src="https://circleci.com/gh/ThoughtWorks-DPS/lab-platform-vpc.svg?style=shield"></a>
 		<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/ThoughtWorks-DPS/circleci-remote-docker"></a>
 	</p>
 </div>
+
+# Deprecated. See psk-series examples.
 
 Strive to create a simple transit routed network. In this way, individual internal AWS account holders can self manage their own account network topologies and connect to other enterprise addresses by connecting to the appropriate transit gateway (which can be configured to auto-accept connections from corporate AWS accounts).  
 
